@@ -26,7 +26,7 @@ You can click the Preview link to take a look at your changes.
 # Algorithm
 [![SolvedAC tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=dydrhks7)](https://solved.ac/dydrhks7)
 
-# <img height = "50" src = "https://user-images.githubusercontent.com/96565110/195751702-33a5070f-8798-4997-8c54-dd9f8a6b044a.png> School
+# <img height="50" src="https://user-images.githubusercontent.com/96565110/195751702-33a5070f-8798-4997-8c54-dd9f8a6b044a.png"> School
   - 인하대학교 컴퓨터공학과 졸업
   
 # Activity
