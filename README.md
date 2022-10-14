@@ -16,7 +16,7 @@ You can click the Preview link to take a look at your changes.
 ![Git](https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
 <br/><br/>
-# <img height = "50" src = "https://user-images.githubusercontent.com/96565110/195754154-e0339d98-807b-4fcd-937d-cc3f525aae2c.png"> Tistory
+# <img height = "50" src = "https://user-images.githubusercontent.com/96565110/195754154-e0339d98-807b-4fcd-937d-cc3f525aae2c.png"> Blog
 [![Tech Blog Badge](http://img.shields.io/badge/Tistory-000000.svg?style=for-the-badge&logo=Tistory&link=https://yoon-1212.tistory.com/)](https://yoon-1212.tistory.com/)
 - [티스토리 바로가기](https://yoon-1212.tistory.com/)
 
