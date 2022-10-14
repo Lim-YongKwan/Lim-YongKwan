@@ -23,7 +23,7 @@ You can click the Preview link to take a look at your changes.
 ![status](https://github-readme-streak-stats.herokuapp.com/?user=Lim-YongKwan)
 ![trophy](https://github-profile-trophy.vercel.app/?username=Lim-YongKwan&theme=chalk&row=1&column=7)
 
-### Algorithm
+## Algorithm
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dydrhks7)](https://solved.ac/dydrhks7/)
 
 ## School
