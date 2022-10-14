@@ -15,11 +15,11 @@ You can click the Preview link to take a look at your changes.
 ![Git](https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
 
+### Tistory
+[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://yoon-1212.tistory.com/)](https://yoon-1212.tistory.com/)
+
 ### Stats
 ![Grizzly's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lim-YongKwan&show_icons=true&theme=radical)
 
 ### Algorithm
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dydrhks7)](https://solved.ac/dydrhks7/)
-
-### Tistory
-[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://yoon-1212.tistory.com/)](https://yoon-1212.tistory.com/)
