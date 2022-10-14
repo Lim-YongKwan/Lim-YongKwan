@@ -55,5 +55,5 @@ You can click the Preview link to take a look at your changes.
   - [Tistory](https://yoon-1212.tistory.com/)
   - [Email](mailto:dydrhks02@naver.com)
 
-# Others
+# <img height = "50" src = "https://user-images.githubusercontent.com/96565110/195752545-75533658-ab6e-48da-9667-28cbae584098.png"> Others
 ![Github Graph](https://activity-graph.herokuapp.com/graph?username=Lim-YongKwan&area=false&theme=xcode&hide_border=true)
