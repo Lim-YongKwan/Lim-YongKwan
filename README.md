@@ -21,5 +21,5 @@ You can click the Preview link to take a look at your changes.
 ### Algorithm
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dydrhks7)](https://solved.ac/dydrhks7/)
 
-# :Tistory
+### Tistory
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://yoon-1212.tistory.com/)](https://yoon-1212.tistory.com/)
