@@ -7,6 +7,7 @@ You can click the Preview link to take a look at your changes.
 # <img height = "50" src = "https://user-images.githubusercontent.com/96565110/195752177-7eb60ee1-f922-4f5b-bfd4-2bc721491fec.png"> Skills
 ### Languages
 ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
 ### Tools
