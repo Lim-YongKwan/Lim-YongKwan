@@ -19,6 +19,43 @@ You can click the Preview link to take a look at your changes.
 
 ### Stats
 ![Grizzly's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lim-YongKwan&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lim-YongKwan&layout=compact&hide=Visual%20Basic)
+![status](https://github-readme-streak-stats.herokuapp.com/?user=Lim-YongKwan)
+![trophy](https://github-profile-trophy.vercel.app/?username=Lim-YongKwan&theme=chalk&row=1&column=7)
 
 ### Algorithm
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dydrhks7)](https://solved.ac/dydrhks7/)
+![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dydrhks7)](https://solved.ac/dydrhks7/)
+
+## School
+  - 인하대학교 컴퓨터공학과 졸업
+  
+## Activity
+  - (2022.03 ~ Present) Apple Developer Academy 1기
+  
+## Project
+  - [영상처리를 이용한 PPT 조작 프로젝트](https://github.com/Lim-YongKwan/Smart_Hand_Presentation)
+  - [EcoTales](https://github.com/DeveloperAcademy-POSTECH/MC2-Team12-EcoTales)
+  - [Alarmi](https://github.com/DeveloperAcademy-POSTECH/MC3-Team7-MoTe)
+  - [YOLO](https://github.com/DeveloperAcademy-YOLO/ProjectYOLO)
+  
+## Interest
+ - Languages
+   - Swift
+   - C/C++
+   
+ - Frameworks
+   - SwiftUI
+   - UIKit
+   
+ - Problem Solving
+   - [Baekjoon](https://www.acmicpc.net/user/dydrhks7)
+
+## Contacts
+  - [Tistory](https://yoon-1212.tistory.com/)
+  - [Email](mailto:dydrhks02@naver.com)
+
+## Others
+![Github Graph](https://activity-graph.herokuapp.com/graph?username=Lim-YongKwan&area=false&theme=xcode&hide_border=true)
+
+
+
