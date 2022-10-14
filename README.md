@@ -4,7 +4,7 @@ Lim-YongKwan/Lim-YongKwan is a ✨ special ✨ repository because its `README.md
 You can click the Preview link to take a look at your changes.
 --->
 
-# 💪Skills
+# <img height = "50" src = "https://user-images.githubusercontent.com/96565110/195752177-7eb60ee1-f922-4f5b-bfd4-2bc721491fec.png"> Skills
 ### Languages
 ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
@@ -26,7 +26,7 @@ You can click the Preview link to take a look at your changes.
 # Algorithm
 [![SolvedAC tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=dydrhks7)](https://solved.ac/dydrhks7)
 
-# School
+# <img height = "50" src = "https://user-images.githubusercontent.com/96565110/195751702-33a5070f-8798-4997-8c54-dd9f8a6b044a.png> School
   - 인하대학교 컴퓨터공학과 졸업
   
 # Activity
