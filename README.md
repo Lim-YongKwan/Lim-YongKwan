@@ -24,7 +24,7 @@ You can click the Preview link to take a look at your changes.
 ![trophy](https://github-profile-trophy.vercel.app/?username=Lim-YongKwan&theme=chalk&row=1&column=7)
 
 ### Algorithm
-![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dydrhks7)](https://solved.ac/dydrhks7/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dydrhks7)](https://solved.ac/dydrhks7/)
 
 ## School
   - 인하대학교 컴퓨터공학과 졸업
