@@ -40,7 +40,6 @@ You can click the Preview link to take a look at your changes.
   
   
 # <img height="50" src="https://user-images.githubusercontent.com/96565110/195750839-6e1716fc-b316-4347-8fca-8a449b6f5181.png"> Interest 
-
  - Languages
    - Swift
    - C/C++
@@ -52,7 +51,7 @@ You can click the Preview link to take a look at your changes.
  - Problem Solving
    - [Baekjoon](https://www.acmicpc.net/user/dydrhks7)
 
-# Contacts
+# <img height="50" src="https://user-images.githubusercontent.com/96565110/195751225-49e5bd9a-c1be-4fa7-a3a4-1879161473ec.png"> Contacts
   - [Tistory](https://yoon-1212.tistory.com/)
   - [Email](mailto:dydrhks02@naver.com)
 
