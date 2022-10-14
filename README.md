@@ -11,4 +11,5 @@ You can click the Preview link to take a look at your changes.
 # Language
 ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white)
+<img src="https://img.shields.io/badge/#F05138?style=for-the-badge&logo=swift&logoColor=black">
 ![Grizzly's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lim-YongKwan&show_icons=true&theme=radical)
