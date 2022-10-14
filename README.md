@@ -14,4 +14,4 @@ You can click the Preview link to take a look at your changes.
 
 <br>
 # stat
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lim-YongKwan&show_icons=true&theme=radical)
+![Grizzly's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lim-YongKwan&show_icons=true&theme=radical)
