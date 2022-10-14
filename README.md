@@ -38,7 +38,9 @@ You can click the Preview link to take a look at your changes.
   - [Alarmi](https://github.com/DeveloperAcademy-POSTECH/MC3-Team7-MoTe)
   - [YOLO](https://github.com/DeveloperAcademy-YOLO/ProjectYOLO)
   
-# Interest
+  
+# <img height="50" src="https://user-images.githubusercontent.com/96565110/195750839-6e1716fc-b316-4347-8fca-8a449b6f5181.png"> Interest 
+
  - Languages
    - Swift
    - C/C++
