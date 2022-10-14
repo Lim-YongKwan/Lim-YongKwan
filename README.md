@@ -17,7 +17,7 @@ You can click the Preview link to take a look at your changes.
 ### Tistory
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://yoon-1212.tistory.com/)](https://yoon-1212.tistory.com/)
 
-### Stats
+## Stats
 ![Grizzly's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lim-YongKwan&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lim-YongKwan&layout=compact&hide=Visual%20Basic)
 ![status](https://github-readme-streak-stats.herokuapp.com/?user=Lim-YongKwan)
