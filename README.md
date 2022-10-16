@@ -34,7 +34,7 @@ You can click the Preview link to take a look at your changes.
 
 # <img height="50" src="https://user-images.githubusercontent.com/96565110/195751702-33a5070f-8798-4997-8c54-dd9f8a6b044a.png"> School
   - 인하대학교 컴퓨터공학과 졸업
-<br/>
+<br/><br/>
 
 # <img height = "50" src = "https://user-images.githubusercontent.com/96565110/195753498-73482e13-9009-4f72-a827-a8b63a07d3df.png"> Activity
   - (2022.03 ~ Present) Apple Developer Academy 1기
@@ -42,9 +42,15 @@ You can click the Preview link to take a look at your changes.
 
 # <img height = "50" src = "https://user-images.githubusercontent.com/96565110/195753450-19706e45-d435-4888-a8af-613e2fe11b65.png"> Project
   - [영상처리를 이용한 PPT 조작 프로젝트](https://github.com/Lim-YongKwan/Smart_Hand_Presentation)
-  - [EcoTales](https://github.com/DeveloperAcademy-POSTECH/MC2-Team12-EcoTales)
-  - [Alarmi](https://github.com/DeveloperAcademy-POSTECH/MC3-Team7-MoTe)
-  - [YOLO](https://github.com/DeveloperAcademy-YOLO/ProjectYOLO)
+  - [EcoTales - 환경 교육 모바일 게임](https://github.com/DeveloperAcademy-POSTECH/MC2-Team12-EcoTales)
+  - [Alarmi - 알람 모바일 어플](https://github.com/DeveloperAcademy-POSTECH/MC3-Team7-MoTe)
+  - [YOLO - 아이패드용 롤링페이퍼 어플](https://github.com/DeveloperAcademy-YOLO/ProjectYOLO)
+<br/><br/>
+
+# <img height="50" src="https://user-images.githubusercontent.com/96565110/196019240-48a38064-3c19-49cf-8db5-a502160b6928.png"> certificate
+  - 정보처리기사(2021.06.02~Present)
+  - OPIC(2021.11.26~Present)
+  - 한국사능력검정시험 1급(2020.07.10~Present)
 <br/><br/>
 
 # <img height="50" src="https://user-images.githubusercontent.com/96565110/195750839-6e1716fc-b316-4347-8fca-8a449b6f5181.png"> Interest 
