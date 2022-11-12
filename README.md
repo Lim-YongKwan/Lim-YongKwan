@@ -41,10 +41,10 @@ You can click the Preview link to take a look at your changes.
 <br/><br/>
 
 # <img height = "50" src = "https://user-images.githubusercontent.com/96565110/195753450-19706e45-d435-4888-a8af-613e2fe11b65.png"> Project
-  - [영상처리를 이용한 PPT 조작 프로젝트](https://github.com/Lim-YongKwan/Smart_Hand_Presentation)
+  - [YOLO - 아이패드용 롤링페이퍼 어플](https://github.com/DeveloperAcademy-YOLO/ProjectYOLO)
   - [EcoTales - 환경 교육 모바일 게임](https://github.com/DeveloperAcademy-POSTECH/MC2-Team12-EcoTales)
   - [Alarmi - 알람 모바일 어플](https://github.com/DeveloperAcademy-POSTECH/MC3-Team7-MoTe)
-  - [YOLO - 아이패드용 롤링페이퍼 어플](https://github.com/DeveloperAcademy-YOLO/ProjectYOLO)
+  - [영상처리를 이용한 PPT 조작 프로젝트](https://github.com/Lim-YongKwan/Smart_Hand_Presentation)
 <br/><br/>
 
 # <img height="50" src="https://user-images.githubusercontent.com/96565110/196019240-48a38064-3c19-49cf-8db5-a502160b6928.png"> certificate
