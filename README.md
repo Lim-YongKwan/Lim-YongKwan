@@ -23,7 +23,6 @@ You can click the Preview link to take a look at your changes.
 
 # <img height = "50" src = "https://user-images.githubusercontent.com/96565110/195753264-3f3f0980-7823-40ba-86e8-0e1c0108c993.png"> Stats
 ![Grizzly's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lim-YongKwan&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lim-YongKwan&layout=compact&hide=Visual%20Basic)
 ![status](https://github-readme-streak-stats.herokuapp.com/?user=Lim-YongKwan)
 ![trophy](https://github-profile-trophy.vercel.app/?username=Lim-YongKwan&theme=chalk&row=1&column=7)
 <br/><br/>
