@@ -66,6 +66,8 @@ You can click the Preview link to take a look at your changes.
 <br/><br/>
 <!-- ![black_nib_3d](https://user-images.githubusercontent.com/96565110/205585709-d34395b2-2d8c-45b8-8c30-60d5041f90b5.png) -->
 
+<!-- ![thinking_face_3d](https://user-images.githubusercontent.com/96565110/205792359-424b738f-ea43-499d-b3b0-c4570246ddc9.png) -->
+
 
 
 # <img height="50" src="https://user-images.githubusercontent.com/96565110/195751225-49e5bd9a-c1be-4fa7-a3a4-1879161473ec.png"> Contacts
