@@ -29,6 +29,7 @@ You can click the Preview link to take a look at your changes.
 
 # <img height = "50" src = "https://user-images.githubusercontent.com/96565110/195753568-b156fab5-cbb8-45ee-be86-cf798d7858d9.png"> Algorithm
 [![SolvedAC tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=dydrhks7)](https://solved.ac/dydrhks7)
+[![](https://banner.codetree.ai/v1/banner/dydrhks7)](https://www.codetree.ai/profiles/dydrhks7)
 <br/><br/>
 
 # <img height="50" src="https://user-images.githubusercontent.com/96565110/195751702-33a5070f-8798-4997-8c54-dd9f8a6b044a.png"> School
