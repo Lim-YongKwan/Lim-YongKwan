@@ -32,10 +32,6 @@ You can click the Preview link to take a look at your changes.
 [![CodeTree](https://banner.codetree.ai/v1/banner/dydrhks7)](https://www.codetree.ai/profiles/dydrhks7)
 <br/><br/>
 
-# <img height="50" src="https://user-images.githubusercontent.com/96565110/195751702-33a5070f-8798-4997-8c54-dd9f8a6b044a.png"> School
-  - 인하대학교 컴퓨터공학과 졸업
-<br/><br/>
-
 # <img height = "50" src = "https://user-images.githubusercontent.com/96565110/195753498-73482e13-9009-4f72-a827-a8b63a07d3df.png"> Activity
   - (2022.03 ~ Present) Apple Developer Academy 1기
 <br/><br/>
