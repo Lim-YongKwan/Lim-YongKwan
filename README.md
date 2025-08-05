@@ -6,15 +6,18 @@ You can click the Preview link to take a look at your changes.
 
 # <img height = "50" src = "https://user-images.githubusercontent.com/96565110/195752177-7eb60ee1-f922-4f5b-bfd4-2bc721491fec.png"> Skills
 ### Languages
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
 ### Tools
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 ![Xcode](https://img.shields.io/badge/Xcode-147EFB.svg?&style=for-the-badge&logo=Xcode&logoColor=white)
 ![UIKit](https://img.shields.io/badge/UIKit-2396F3.svg?&style=for-the-badge&logo=UIKit&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 <br/><br/>
 # <img height = "50" src = "https://user-images.githubusercontent.com/96565110/195754154-e0339d98-807b-4fcd-937d-cc3f525aae2c.png"> Blog
 [![Tech Blog Badge](http://img.shields.io/badge/Tistory-000000.svg?style=for-the-badge&logo=Tistory&link=https://yoon-1212.tistory.com/)](https://yoon-1212.tistory.com/)
